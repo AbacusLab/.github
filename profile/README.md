@@ -8,7 +8,7 @@ Abacus는 마켓플레이스 및 소셜 신호 연구를 우선순위가 지정�
 
 ## 문서
 
-- 시스템 설계: `ARCHITECTURE.md`(./ARCHITECTURE.md)
+- 시스템 설계: [ARCHITECTURE.md](./ARCHITECTURE.md)
 - 패키지 세부사항 및 사용법: `README.md`
 
 ## 라이선스
