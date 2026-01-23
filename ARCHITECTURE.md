@@ -32,6 +32,8 @@ This document provides an overview of the architecture of the project, outlining
   - **Alertmanager**: Sends alerts based on predefined thresholds to notify the team of any issues.
   - **Sentry**: Monitors application errors and exceptions, providing insights into system reliability.
 
+---
+
 ## Design Principles
 - **Scalability**: The architecture is designed to scale horizontally, allowing for the addition of more nodes in the CrawlerCluster and DataProcessor components as demand increases.
 - **Modularity**: Each component is designed to be independent, allowing for easier maintenance and updates without affecting the entire system.
